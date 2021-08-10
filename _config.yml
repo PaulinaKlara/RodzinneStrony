@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Rodzinne Strony'
+description: 'Oto strona o tym co ważne - dla dużych i małych. O różnych spojrzeniach na to samo, bo oczy patrzące są rózne.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/RodzinneStrony'
 disqus: ''
-email: 'wowthemesnet@gmail.com'
+email: ''
 mailchimp-list: ''
 
 include: ["_pages"]
@@ -19,21 +19,26 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    Klara:
+      name:           Klara       
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Mam 8 lat. Lubię kotki i cukier."
+    
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    Paulina:
+      name:           Paulina
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Mama dwójki - na dobre i złe. Razem patrzymy, rozmawiamy, wymyślamy."
+      
+    Eryk:
+      name:           Eryk       
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Mam 2,5 roku. Biegam, krzyczę, mówię non stop i mam pełną głowę pomysłów i loczków."
+      
+    Łukasz:
+      name:           Łukasz    
+      avatar:         /assets/images/avatar1.jpg
+      bio:            ""
  
 # Defaults
 defaults:
