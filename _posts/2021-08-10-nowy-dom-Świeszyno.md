@@ -3,7 +3,7 @@ layout: post
 title:  "Nasz nowy dom - Świeszyno"
 author: Klara
 categories: [ podróże ]
-image: assets/images/home.jpg
+image: https://supeo.pl/content/images/thumbs/0003105_trampolina-ogrodowa-malatec-374cm-z-siatka-zewnetrzna-i-drabinka_900.jpeg
 tags: []
 ---
 
