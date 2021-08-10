@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Pyszny deser"
-author: Klara, Eryk
+author: Klara
 categories: [ jedzenie ]
 image: assests/images/deser.jpg
-image: assests/images/deser_e.jpg
 tags: []
 ---
 
