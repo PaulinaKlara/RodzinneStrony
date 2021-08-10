@@ -3,7 +3,7 @@ layout: post
 title:  "Nowy film"
 author: Klara
 categories: [ film ]
-image: https://www.filmweb.pl/film/Niania-2005-121978/posters
+image: https://fwcdn.pl/fpo/19/78/121978/7735687.6.jpg
 tags: []
 ---
 
