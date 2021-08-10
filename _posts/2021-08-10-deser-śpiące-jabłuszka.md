@@ -3,7 +3,7 @@ layout: post
 title:  "Pyszny deser"
 author: Klara
 categories: [ jedzenie ]
-image: assests/images/deser.jpg
+image: assets/images/deser.jpg
 tags: []
 ---
 
