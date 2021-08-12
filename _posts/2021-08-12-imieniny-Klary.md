@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Imieniny kogoś wyjątkowego"
-author: Klara
+author: Paulina
 categories: [ święta ]
 image: 
 tags: []
